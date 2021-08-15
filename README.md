@@ -1,0 +1,2 @@
+# ShapeSimulatorGame: 
+OOP, Typescript, functions
